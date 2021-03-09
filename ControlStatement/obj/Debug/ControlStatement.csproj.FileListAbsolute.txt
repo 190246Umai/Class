@@ -1,0 +1,6 @@
+C:\Users\Rosina Umai\source\repos\ControlStatement\bin\Debug\ControlStatement.exe.config
+C:\Users\Rosina Umai\source\repos\ControlStatement\bin\Debug\ControlStatement.exe
+C:\Users\Rosina Umai\source\repos\ControlStatement\bin\Debug\ControlStatement.pdb
+C:\Users\Rosina Umai\source\repos\ControlStatement\obj\Debug\ControlStatement.csproj.CoreCompileInputs.cache
+C:\Users\Rosina Umai\source\repos\ControlStatement\obj\Debug\ControlStatement.exe
+C:\Users\Rosina Umai\source\repos\ControlStatement\obj\Debug\ControlStatement.pdb
